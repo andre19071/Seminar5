@@ -22,5 +22,7 @@ for (int i = 0; i < array.Length; i++)
     }
 }
 Console.WriteLine(string.Join(" , ",array));
+
+
 Console.WriteLine($"Сумма положительных чисел = {sumP}");
 Console.WriteLine($"Сумма отрицательных чисел = {sumN}");
